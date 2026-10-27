@@ -1,6 +1,6 @@
 # step-up
 
-A simple, read-only STL viewer for the browser. Open an ASCII or binary `.stl` file by choosing it or dropping it onto the page. Files are processed locally and are not uploaded.
+A simple, read-only STL viewer for the browser. [Open step-up](https://briday1.github.io/step-up/). Open an ASCII or binary `.stl` file by choosing it or dropping it onto the page. Files are processed locally and are not uploaded.
 
 - Drag to orbit, right-drag to pan, and scroll to zoom. On touchscreens, drag with one finger to orbit and use two fingers to pan and pinch to zoom.
 - Use the view buttons or double-click to fit. Switch between perspective and orthographic cameras, change the model color, toggle wireframe, grid, axes, or auto rotation, and save the current view as a PNG.
